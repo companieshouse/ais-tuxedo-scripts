@@ -4,7 +4,7 @@ Jinja2 template maintenance scripts for [ais-tuxedo-stack](https://github.com/co
 
 <hr>
 
-These scripts are deployed via CI/CD jobs that utilise an Ansible playbook and are grouped by the service that they relate to. For more information refer to the [ais-tuxedo-stack deployment branch](https://github.com/companieshouse/ais-tuxedo-stack/tree/deployment) and [Informix maintenance jobs](https://github.com/companieshouse/fil-tuxedo-stack/tree/deployment/roles/management#informix-maintenance-jobs) sections of that project's 'management' role documentation.
+These scripts are deployed via CI/CD jobs that utilise an Ansible playbook and are grouped by the service that they relate to. For more information refer to the [ais-tuxedo-stack deployment branch](https://github.com/companieshouse/ais-tuxedo-stack/tree/deployment) and [Informix maintenance jobs](https://github.com/companieshouse/ais-tuxedo-stack/tree/deployment/roles/management#informix-maintenance-jobs) sections of that project's 'management' role documentation.
 
 ## Template scripts
 
